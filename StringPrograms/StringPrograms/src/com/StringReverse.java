@@ -18,7 +18,8 @@ class StringReverse {
      // result byte[]
      for (int i = 0; i < strAsByteArray.length; i++)
          result[i] = strAsByteArray[strAsByteArray.length - i - 1];
-
+ // Store result in reverse order into the
+     // result byte[]
      System.out.println(new String(result));
  }
 }
