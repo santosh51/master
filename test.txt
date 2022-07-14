@@ -1,0 +1,22 @@
+In the Previous Parts of the series I have covered the most Up and running topics like Git Tutorial For
+Beginners, Manage Branches & Conflicts Resolution In Git and Best Git GUI Clients For Different Platforms. In
+this article I will cover the most used Git commands. I will list down commands by the category and provides
+the description of each. Git has an enormous set of commands which will be hard to remember.
+You can save the cheat sheet for not having any confusions in commands while maintaining the versions. In
+addition I will also define some Terminologies for your ease so that you know what the specific meaning of the
+term in Git.
+Let’s start with the Git Terminologies first.
+Git Terminologies
+S.no Terminology Description 1 Bare Repository Repository without working directory 2 Branch A branch is an active area of development in Git. The
+most recent commit shows the tip of branch
+3 Blame Describes the last modifications of each line in file.
+Show Revision Author & Time 4 checkout This means to take any given commit from the
+repository and Recreate the state of the
+associated file and directory tree in the working
+directory.
+5 commit This is a single point in git history which holds the information about the changeset 6 diff A diff is the difference in changes between two
+commits, or saved changes 7 Detached Head This exact state - when a specific commit is checked out instead of a branch - is what's called a "detached HEAD" 8 Fetch Fetching means to get latest changes in branch and local/remote repos 9 Fork By forking the repository you will be able to add
+commits and create Pull Requests
+10 Hash A unique SHA1 code for every commit
+11 Head A named reference to the commit at the tip of a branch
+12 Index It is a collection of files with state informations.
